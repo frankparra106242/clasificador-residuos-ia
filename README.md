@@ -7,6 +7,19 @@ Prototipo de clasificación automática de residuos mediante **visión artificia
 El sistema utiliza una **ESP32-CAM AI Thinker** para capturar imágenes de los residuos y un modelo desarrollado con **Edge Impulse** para clasificarlos. De acuerdo con el resultado de la clasificación, un **motor paso a paso 28BYJ-48** hace girar el cuerpo cilíndrico del recipiente hasta alinear el compartimento correspondiente con el punto de descarga.
 
 ---
+## Equipo del proyecto
+
+### Estudiantes autores
+
+- Mateo Serna Echeverri — Programación
+- Emmanuel Sánchez Zapata — Diseño 3D
+- Juan José Osorio Tobón — Electrónica
+- Miguel Ángel Zapata Serna — Visión artificial
+- Gerónimo Rodríguez Chaverra — Mecánica
+
+### Profesor asesor
+
+- Frank Alexander Parra Sánchez
 
 ## 1. Descripción del proyecto
 
