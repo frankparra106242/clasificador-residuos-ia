@@ -14,6 +14,7 @@ El sistema utiliza una **ESP32-CAM AI Thinker** para capturar imágenes de los r
 - Mateo Serna Echeverri — Programación
 - Emmanuel Sánchez Zapata — Diseño 3D
 - Juan José Osorio Tobón — Electrónica
+- Valerie Sofía Ferrer Alvarez - Diseño 3D
 - Miguel Ángel Zapata Serna — Visión artificial
 - Gerónimo Rodríguez Chaverra — Mecánica
 
